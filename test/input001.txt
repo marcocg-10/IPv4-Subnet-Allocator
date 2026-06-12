@@ -1,0 +1,5 @@
+192.168.0.0
+DESC
+GrupoA 129
+GrupoB 256
+GrupoC 512
